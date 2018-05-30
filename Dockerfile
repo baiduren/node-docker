@@ -9,4 +9,3 @@ RUN set -x \
 #  && npm install \
 #  && npm run build \
   && npm install -g serve@6.5.6
-
